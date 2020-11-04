@@ -16,14 +16,14 @@ Is there a relation between the price of a book and its user rating? We clearly 
 ## Plot 3: 
 
 
-![plot3](./pictures/)
+![plot3](./pictures/plot3_barchart_1.PNG)
 
 ## Plot 4:
 
 
-![plot4](./pictures/)
+![plot4](./pictures/plot4_overview_price.PNG)
 
 ## Plot 5: 
 
 
-![plot5](./pictures/)
+![plot5](./pictures/plot5_barchart_2.PNG)
