@@ -13,7 +13,7 @@ Is there a relation between the price of a book and its user rating? We clearly 
 
 ![plot2](./pictures/plot2_scatterplot.png)
 
-## Plot 3: 
+## Plot 3:  Authors who got the best sellers in a barchart.
 
 
 ![plot3](./pictures/plot3_barchart_1.PNG)
