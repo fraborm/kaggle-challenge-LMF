@@ -18,7 +18,7 @@ Is there a relation between the price of a book and its user rating? We clearly 
 
 ![plot3](./pictures/plot3_barchart_1.PNG)
 
-## Plot 4: TOP 5 Most Expensive books
+## Plot 4: TOP 5 Most expensive books
 Which are the 5 most expensive books from 2009 until 2019?
 
 ![plot4](./pictures/plot4_overview_price.PNG)
@@ -26,5 +26,17 @@ Which are the 5 most expensive books from 2009 until 2019?
 ## Plot 5: Overview user rating
 Wat is is hight and lowest score ever given?
 
-
 ![plot5](./pictures/plot5_barchart_2.PNG)
+
+## Plot 6: Overview of the genre
+Wat is the most popular genre? Fiction or Non finction?
+
+![plot6](./pictures/plot5_barchart.png)
+
+## Plot 7: Overview Reviews
+Wat is is hight and lowest score ever given by author?
+
+![plot7](./pictures/plot6_barchart.png)
+
+
+
